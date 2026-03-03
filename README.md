@@ -6,5 +6,5 @@ A lista oficial foi passada e foi armazenada em um array (excelDados), já os no
 
 Para garantir a certeza entre as duas listas foi feito o tratamento em python para que os caracteres especiais fossem devidamente tratados.
 
-Provavelmente existam formas melhores para essa análise, se tiverem alguma dica me chamem no [Linkedin](www.linkedin.com/in/lucas-guimarães-fabrício-4a33a0205)
+Provavelmente existam formas melhores para essa análise, se tiverem alguma dica me chamem no Linkedin: www.linkedin.com/in/lucas-guimarães-fabrício-4a33a0205
 
